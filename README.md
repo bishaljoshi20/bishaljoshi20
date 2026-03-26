@@ -58,7 +58,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bishaljoshi20&theme=tokyonight&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=bishaljoshi20&theme=tokyonight&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
