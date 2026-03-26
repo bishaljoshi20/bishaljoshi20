@@ -56,12 +56,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bishaljoshi20&theme=tokyonight&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bishaljoshi20&label=Profile%20views&color=blue&style=flat)
