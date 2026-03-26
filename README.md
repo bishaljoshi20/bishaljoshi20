@@ -46,19 +46,19 @@
 
 ### 📊 GitHub Stats
 
-![Bishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishaljoshi20&show_icons=true&theme=tokyonight&hide=prs,issues)
+[![Bishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishaljoshi20&show_icons=true&theme=tokyonight&hide=prs,issues)
 
 ---
 
 ### 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishaljoshi20&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishaljoshi20&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=bishaljoshi20&theme=tokyonight&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bishaljoshi20&theme=tokyonight&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
